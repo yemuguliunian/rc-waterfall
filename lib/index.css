@@ -1,0 +1,10 @@
+.rc-waterfall {
+  width: 100%;
+  overflow-x: hidden;
+}
+.rc-waterfall-inner {
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+}
