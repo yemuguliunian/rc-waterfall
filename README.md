@@ -8,9 +8,6 @@ APP : 定列不定宽
 
 功能：瀑布流（已实现），懒加载（已实现），设置动画（待），预览功能（待），滚动加载（待）
 
-### demo
-https://yemuguliunian.github.io/rc-waterfall/example/demo/index.html
-
 ### API
 | 参数        | 说明           | 类型  | 默认值 |
 | ------------- |-------------| -----|-----|
