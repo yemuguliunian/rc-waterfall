@@ -16,3 +16,5 @@ APP : 定列不定宽
 | gutter     | 间隔 | number  | 16 |
 | calculateType     | 展示方式('pc'\|'app') | string  | pc |
 | lazy     | 懒加载 | boolean\|object  | false |
+| onScroll     | 滚动加载 | function  |  |
+
